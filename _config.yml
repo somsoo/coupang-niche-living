@@ -1,0 +1,19 @@
+title: 리빙 가전픽
+description: 스마트 주방 & 홈케어 생활 가전 스펙 비교 및 구매 가이드
+url: "https://living.enjoy-onepage.com"
+baseurl: ""
+theme: minima
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - auto_poster.py
+  - requirements.txt
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - used_keywords.txt
+header_pages:
+  - all_posts.md

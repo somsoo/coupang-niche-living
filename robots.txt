@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://living.enjoy-onepage.com/sitemap.xml
